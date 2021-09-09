@@ -157,7 +157,3 @@ FROM time_table;
 SELECT COUNT(*)
 FROM songplays_table;
 ```
-
-## Summary
-
-Project-4 provides customer startup Sparkify tools to analyse their service data in a flexible way and help them answer their key business questions like "Who listened which song and when?"
