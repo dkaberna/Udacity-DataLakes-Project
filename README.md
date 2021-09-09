@@ -1,4 +1,4 @@
-# PROJECT-4: Data Lake
+# PROJECT: Data Lake
 
 ## Quick start
 
@@ -20,7 +20,7 @@ After installing python3 + Apache Spark (pyspark) libraries and dependencies, ru
 
 ## Overview
 
-This Project-4 handles data of a music streaming startup, Sparkify. Data set is a set of files in JSON format stored in AWS S3 buckets and contains two parts:
+This project handles data of a music streaming startup, Sparkify. Data set is a set of files in JSON format stored in AWS S3 buckets and contains two parts:
 
 * **s3://udacity-kaberna/song_data**: static data about artists and songs
   Song-data example:
